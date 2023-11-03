@@ -12,7 +12,7 @@ This assignment will give you hands-on experience in video hosting, creating a F
      - In your storage account, go to Security --> enable "Allow Blob anonymous access"--> Save
      - Go to Containers --> create Container --> Name the container --> change anoynmous access level to container --> create
      - In the Container you just created, upload a video using the upload button --> click on the desired video --> copy the URL, and paste it into a new tab in your browser
-     - Go to Front Door and CDN --> click on your container name --> Click on your Endpoint that matches your container name --> Here you will see an endpoint hostname and an origin hostname. Open the Endpoint Hostname.
+     - Go to Front Door and CDN --> Create a new endpoint --> make sure to put it as ignore query string --> create --> click on your container name --> Click on your Endpoint that matches your container name --> Here you will see an endpoint hostname and an origin hostname. Open the Endpoint Hostname.
      - Copy the portion of the URL after "windows.net" from the URL you took from the container. Paste it into the endpoint hostname URL after the ".net"
      - Check to see if your video plays. This will be the URL you place in your ```.html``` file
 
