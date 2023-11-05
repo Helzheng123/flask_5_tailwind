@@ -31,6 +31,14 @@ This assignment will give you hands-on experience in video hosting, creating a F
 
 You can check out my Flask application through Azure App Service here: https://helen-tailwind.azurewebsites.net/
 
+![image](https://github.com/Helzheng123/flask_5_tailwind/assets/123939070/58e2f89d-c176-4a8a-84e9-7339fe8dd36f)
+
+
 ### 5. Validate Asset Delivery:
  - I went on GTmetrix and ran a test with the [URL](https://helen-tailwind.azurewebsites.net/) and the [results](https://github.com/Helzheng123/flask_5_tailwind/blob/main/Screenshots%20and%20Videos/GTmetrix%20test%20for%20cdn.png) came out as:
 ![image](https://github.com/Helzheng123/flask_5_tailwind/assets/123939070/4408a5d8-4b63-4bc1-85c0-9e57cf1640f0)
+
+ - With CDNs, you can have faster content delivery which can improve the user experience. CDNs are capable of evenly distributing incoming traffic across multiple servers to prevent overloading. CDNs also have scalability that can ensure your application will run even during times of spikes in traffic.
+
+### 6. Complications: 
+ - I did not encounter any complications for this assignment.
